@@ -1,2 +1,6 @@
 # Stocks Webscraper
-Program for Webscraping Stock Data
+Simple Program for Webscraping Stock Data
+
+## Description
+
+The program scrapes data from https://www.bondspot.pl/fixing_obligacji?date=20240226&month=02&year=2024 to collect information about daily stock prices
